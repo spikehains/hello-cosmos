@@ -1,12 +1,5 @@
 # hello-cosmos
-Created as part of learning to use git.
+This project was created as a way of learning to use git. When I started programming early in my career, we used Visual SourceSafe. Over time we moved to new Subversion. As my career focused more and strategy and planning, I wasn't in the code anymore. It was then that the world switched to Git.
 
-Started with Visual SourceSafe, moved to Subversion, then became an architect and wasn't in the code anymore. It was then that the world switched to Git. I didn't switch with it so now I'm playing catch-up.
+This hello-cosmos is here for me to learn and review GitHub, branching, and using Git.
 
-This hello-world is here for me to learn.
-
-Sometime later, I update this to offer a broader greeting.
-
-Still learning all the things.
-
-This note was committed directly to the the branch called spikehains-patch-1.
